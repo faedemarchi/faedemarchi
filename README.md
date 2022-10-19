@@ -1,4 +1,4 @@
-### Oiê! Eu sou a Rafa Demarchi 👋
+### HI! I am Rafa Demarchi 👋
 
 - 📲 I’m currently working with Digital Marketing 
 - 💻 I’m currently learning JavaScript
